@@ -12,6 +12,7 @@
 #property indicator_buffers 2
 #property indicator_plots   2
 
+
 //--- Line properties are set using the compiler directives
 #property indicator_label1  "Agressoes_Compra"        // Name of a plot for the Data Window
 #property indicator_type1   DRAW_LINE        // Type of plotting is line
